@@ -31,3 +31,9 @@ const countChars = (str, char) => {
   return count;
 };
 ```
+* ## Education: 
+* **Peter the Great St.Petersburg Polytechnic University (SPbPU)**
+  * International Management
+* **Hexlet**
+  * [Layout Designer](https://ru.hexlet.io/programs/layout-designer)
+  * [Frontend](https://ru.hexlet.io/programs/frontend)
