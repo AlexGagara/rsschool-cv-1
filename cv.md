@@ -37,3 +37,6 @@ const countChars = (str, char) => {
 * **Hexlet**
   * [Layout Designer](https://ru.hexlet.io/programs/layout-designer)
   * [Frontend](https://ru.hexlet.io/programs/frontend)
+## Languages:
+* **Russian** - native speaker
+* **English** - A2
