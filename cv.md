@@ -4,6 +4,7 @@
 * **Phone:** 8(999)204-77-97
 * **E-mail:** ann.shplv@gmail.ru
 * **GitHub:** [annshplv](https://github.com/annshplv)
+
 ## About me:
 Hi! I'm 26 y/o June FrontEnd developer. 
 * **My strengths:**
@@ -16,6 +17,7 @@ Hi! I'm 26 y/o June FrontEnd developer.
 * JavaSkript;
 * Git, GitHub;
 * Figma, AdobePhotoshop;
+
 ## Code examples: 
 ```javascript
 const countChars = (str, char) => {
@@ -31,12 +33,14 @@ const countChars = (str, char) => {
   return count;
 };
 ```
-* ## Education: 
+
+## Education: 
 * **Peter the Great St.Petersburg Polytechnic University (SPbPU)**
   * International Management
 * **Hexlet**
   * [Layout Designer](https://ru.hexlet.io/programs/layout-designer)
   * [Frontend](https://ru.hexlet.io/programs/frontend)
+
 ## Languages:
 * **Russian** - native speaker
 * **English** - A2
