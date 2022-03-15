@@ -16,3 +16,18 @@ Hi! I'm 26 y/o June FrontEnd developer.
 * JavaSkript;
 * Git, GitHub;
 * Figma, AdobePhotoshop;
+## Code examples: 
+```javascript
+const countChars = (str, char) => {
+  let i = 0;
+  let count = 0;
+  while (i < str.length) {
+    if (str[i].toLowerCase() === char.toLowerCase()) {
+      count += 1;
+    }
+    i = i + 1;
+  }
+
+  return count;
+};
+```
